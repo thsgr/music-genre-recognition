@@ -24,9 +24,5 @@ Installation de ffmpeg :
 
 ## Auteurs
 
-* **Emile Ohier** - *Ingénieur codeur - Amateur de Flask* <!--      - [Texte](liens)    -->
-* **Thomas Segré** - *WebMaster 2 - BG du groupe - Féru d'HTML et de CSS*
-* **Rémi De Tournemire** - *PowerPointer*
-* **Benjamin Cohen** - *Ingénieur graphiste et DJ*
-* **Mathieu Cerepi** - *WebMaster 2*
-* **Adrien Carrel** - *Respo IA - J'aime le curling acrobatique*
+* **Thomas Segré** 
+* **Adrien Carrel** 
