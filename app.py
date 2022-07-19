@@ -21,7 +21,7 @@ def loading_the_model(model_path):
     model = load_model(model_path)
 
 
-model_path = 'first_model.model'
+model_path = 'models/first_model.model'
 loading_the_model(model_path)
 
 
