@@ -1,4 +1,4 @@
-# Nom du projet : Application WEB : Reconnaissance de genre musicaux
+# Application WEB : Reconnaissance de genre musicaux
 
 L'idée est de créer une application web permettant de téléverser une musique et d'afficher le genre musical auquel elle appartient à l'aide d'une intelligence artificielle. Il s'agira ensuite d'ajouter quelques features en plus.
 
